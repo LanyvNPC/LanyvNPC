@@ -5,4 +5,4 @@
 <p>Telegram : @LanyvNPC</p>
 <p><h1># Group</h1></p>
 <p><strong>currently : Redich Group</strong></p>
-<p><strong>before : Team Raku ass kicker</strong></p>
+<p><strong>before : Team Raccu ass kicker</strong></p>
